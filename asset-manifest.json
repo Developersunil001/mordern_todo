@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mordern_todo/static/css/main.873cc399.css",
+    "main.js": "/mordern_todo/static/js/main.09cf2bb7.js",
+    "static/js/787.a3925b75.chunk.js": "/mordern_todo/static/js/787.a3925b75.chunk.js",
+    "static/media/Logo.png": "/mordern_todo/static/media/Logo.2da52982dfb377fe3df7.png",
+    "index.html": "/mordern_todo/index.html",
+    "main.873cc399.css.map": "/mordern_todo/static/css/main.873cc399.css.map",
+    "main.09cf2bb7.js.map": "/mordern_todo/static/js/main.09cf2bb7.js.map",
+    "787.a3925b75.chunk.js.map": "/mordern_todo/static/js/787.a3925b75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873cc399.css",
+    "static/js/main.09cf2bb7.js"
+  ]
+}
